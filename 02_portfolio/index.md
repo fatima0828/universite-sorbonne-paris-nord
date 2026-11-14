@@ -63,7 +63,7 @@ Mon objectif est de mettre à profit mes acquis techniques pour approfondir mes 
 
 ## 04. PROJET ACADÉMIQUE DE RÉFÉRENCE
 
-# REMS — Real Estate Management System
+# REMS - Real Estate Management System
 
 **Projet universitaire collectif | Gestion immobilière**
 
