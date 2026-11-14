@@ -85,25 +85,22 @@ Au sein d'une équipe de cinq personnes, j'ai assuré la coordination de la part
 
 ### Présentation visuelle du projet
 
-**Figure 1 — Interface générale de la plateforme**
+**Figure 1 : ACCUEIL**
 
-![Interface générale de REMS](../images/im1.png)
+![Page d'accueil](../accueil.png)
 
-**Figure 2 — Gestion des biens immobiliers**
+**Figure 2 : MES PROPRIETES**
 
-![Gestion des biens immobiliers](../images/im2.png)
+![Proprietés](../MES_PROPRIETES.jpeg)
 
-**Figure 3 — Formulaires et gestion des requêtes**
+**Figure 3 : Formulaires et gestion des requêtes**
 
-![Interfaces de gestion](../images/im3.png)
+![FORMULAIRE](../FORMULAIRE.jpeg)
 
-**Figure 4 — Outil de calcul des mensualités**
+**Figure 4 : Statistiques**
 
-![Calcul des mensualités](../images/im4.png)
+![dashboard](../statistiques.png)
 
-**Figure 5 — Gestion des médias et des galeries**
-
-![Gestion des médias](../images/im5.png)
 
 *Source : maquette de conception du projet REMS réalisée sur Figma.*
 
